@@ -1,0 +1,67 @@
+<table class="login-section"
+    style="font-family: Arial, sans-serif; text-align: center; background-color: #ffffff; width: 370px; height: auto; border-collapse: collapse; border-radius: 20px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); margin: auto;">
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 20px;">
+            <h2 style="font-size: 24px; font-weight: bold; color: #111827;">Login</h2>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <button type="button"
+                style="width: 320px; padding: 12px; font-size: 14px; font-weight: bold; color: #000000; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                <img src="google-icon.png" alt="Google" style="height: 18px; margin-right: 10px; vertical-align: middle;"> Use
+                Google Account
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <button type="button"
+                style="width: 320px; padding: 12px; font-size: 14px; font-weight: bold; color: #000000; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                <img src="facebook-icon.png" alt="Facebook" style="height: 18px; margin-right: 10px; vertical-align: middle;"> Use
+                Facebook Account
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding: 10px 0;">
+            <span style="color: #6b7280;">──────── Or ────────</span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <input type="text" placeholder="Username"
+                style="width: 320px; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 14px; color: #111827;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <input type="password" placeholder="Password"
+                style="width: 320px; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 14px; color: #111827;">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: left; padding: 10px 0;">
+            <label style="font-size: 14px; color: #6b7280;">
+                <input type="checkbox" style="margin-right: 5px;"> Remember Me
+            </label>
+        </td>
+        <td style="text-align: right; padding: 10px 0;">
+            <a href="#" style="font-size: 14px; color: #4a5ed2; text-decoration: none;">Forgot Password?</a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding: 20px 0;">
+            <button type="button"
+                style="font-size: 16px; font-weight: bold; height: 50px; width: 320px; border-radius: 30px; color: white; background: linear-gradient(to right, #ff7b7b, #ff5858); border: none; cursor: pointer; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                Login
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-top: 10px;">
+            <span style="font-size: 14px; color: #6b7280;">Don’t have an account?</span>
+            <a href="#" style="font-size: 14px; color: #4a5ed2; text-decoration: none;">Sign Up</a>
+        </td>
+    </tr>
+</table>

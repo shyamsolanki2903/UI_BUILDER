@@ -1,0 +1,7 @@
+{
+    "init": "getStartedUI.php",
+    "title": "1_UI_BUILDER",
+    "description": "create you UI ",
+    "version": "1",
+    "keywords": "UI_BUILDER"
+}

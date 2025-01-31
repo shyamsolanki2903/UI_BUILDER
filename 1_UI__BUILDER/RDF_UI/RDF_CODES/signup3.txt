@@ -1,0 +1,67 @@
+<table class="login-container"
+    style="font-family: Arial, sans-serif; text-align: center; background-color: #4b6cd1; width: 370px; border-collapse: collapse; border-radius: 20px; padding: 20px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <!-- Back Icon -->
+    <tr>
+        <td style="padding: 10px; text-align: left;">
+            <a href="#" style="font-size: 20px; color: white; text-decoration: none;">&#8592;</a>
+        </td>
+    </tr>
+    <!-- Illustration -->
+    <tr>
+        <td style="padding: 20px;">
+            <img src="illustration.png" alt="Illustration" style="width: 100%; height: auto; border-radius: 20px;">
+        </td>
+    </tr>
+    <!-- Welcome Text -->
+    <tr>
+        <td style="padding: 10px;">
+            <h1 style="font-size: 24px; font-weight: bold; color: white; margin: 0;">Welcome Back</h1>
+            <p style="font-size: 16px; color: white; margin: 5px 0;">Login to your account</p>
+        </td>
+    </tr>
+    <!-- Username Input -->
+    <tr>
+        <td style="padding: 10px;">
+            <div style="display: flex; align-items: center; background-color: #8fa6e0; padding: 10px; border-radius: 10px;">
+                <img src="user-icon.png" alt="User Icon" style="width: 20px; height: 20px; margin-right: 10px;">
+                <input type="text" placeholder="Username"
+                    style="width: 100%; border: none; outline: none; background: transparent; color: white; font-size: 14px;">
+            </div>
+        </td>
+    </tr>
+    <!-- Password Input -->
+    <tr>
+        <td style="padding: 10px;">
+            <div style="display: flex; align-items: center; background-color: #8fa6e0; padding: 10px; border-radius: 10px;">
+                <img src="lock-icon.png" alt="Lock Icon" style="width: 20px; height: 20px; margin-right: 10px;">
+                <input type="password" placeholder="Password"
+                    style="width: 100%; border: none; outline: none; background: transparent; color: white; font-size: 14px;">
+            </div>
+        </td>
+    </tr>
+    <!-- Remember Me and Forgot Password -->
+    <tr>
+        <td style="padding: 10px; display: flex; justify-content: space-between; align-items: center; color: white; font-size: 14px;">
+            <label>
+                <input type="checkbox" style="margin-right: 5px;"> Remember me
+            </label>
+            <a href="#" style="color: white; text-decoration: none;">Forgot Password?</a>
+        </td>
+    </tr>
+    <!-- Login Button -->
+    <tr>
+        <td style="padding: 20px;">
+            <button type="button"
+                style="font-size: 16px; font-weight: bold; width: 100%; height: 50px; border-radius: 25px; color: white; background: linear-gradient(to right, #3a4a93, #2b367b); border: none; cursor: pointer; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                LOGIN
+            </button>
+        </td>
+    </tr>
+    <!-- Signup Link -->
+    <tr>
+        <td style="padding: 10px;">
+            <span style="font-size: 14px; color: white;">Don't have an account?</span>
+            <a href="#" style="font-size: 14px; color: white; font-weight: bold; text-decoration: underline;">Sign up</a>
+        </td>
+    </tr>
+</table>

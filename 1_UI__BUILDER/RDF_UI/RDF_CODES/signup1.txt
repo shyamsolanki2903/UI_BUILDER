@@ -1,0 +1,67 @@
+<table class="signup-section"
+    style="font-family: Arial, sans-serif; text-align: center; background-color: #ffffff; width: 370px; height: auto; border-collapse: collapse; border-radius: 20px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); margin: auto; background-image: url('background.jpg'); background-size: cover; background-position: center;">
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 20px;">
+            <h2 style="font-size: 24px; font-weight: bold; color: #ffffff;">Signup</h2>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <input type="text" placeholder="User Name"
+                style="width: 320px; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 14px; color: #111827; background-color: #f9fafb;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <input type="email" placeholder="Email"
+                style="width: 320px; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 14px; color: #111827; background-color: #f9fafb;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <input type="password" placeholder="Password"
+                style="width: 320px; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 14px; color: #111827; background-color: #f9fafb;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <input type="password" placeholder="Confirm password"
+                style="width: 320px; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 14px; color: #111827; background-color: #f9fafb;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding: 20px 0;">
+            <button type="button"
+                style="font-size: 16px; font-weight: bold; height: 50px; width: 320px; border-radius: 30px; color: white; background: linear-gradient(to right, #34d399, #059669); border: none; cursor: pointer; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                Signup
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <span style="font-size: 14px; color: #ffffff;">──────── Or signup with ────────</span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-bottom: 10px;">
+            <button type="button"
+                style="width: 70px; height: 50px; font-size: 14px; font-weight: bold; color: #ffffff; background: #db4437; border: none; border-radius: 10px; cursor: pointer; margin: 0 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                G
+            </button>
+            <button type="button"
+                style="width: 70px; height: 50px; font-size: 14px; font-weight: bold; color: #ffffff; background: #000000; border: none; border-radius: 10px; cursor: pointer; margin: 0 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                
+            </button>
+            <button type="button"
+                style="width: 70px; height: 50px; font-size: 14px; font-weight: bold; color: #ffffff; background: #1877f2; border: none; border-radius: 10px; cursor: pointer; margin: 0 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                f
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center; padding-top: 10px;">
+            <span style="font-size: 14px; color: #ffffff;">Already have an account?</span>
+            <a href="#" style="font-size: 14px; color: #34d399; text-decoration: none;">Login</a>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,75 @@
+  <table class="section" style="font-family: 'Poppins';">
+    <tr>
+      <td colspan="2" style="font-size: 24px; text-align: left;">
+        <button id="Arrow" style="border-radius:5px;height:28px; width: 28px"><img src="RDF_UI/RDF_MEDIA/backIMG.jpg" width="14"
+            height="12" align-item="center"></button><b>&nbsp;Log in</b>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="font-size:16px;">Log in with one of the following</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; cursor: pointer;"><button id="google"
+          style="border-radius:10px; height: 55px; width: 158px; text-align: left;background-color:#fff; border-color: #3F6DFD;"><img
+            src="RDF_UI/RDF_MEDIA/With_GoogleIMG.jpg" width="145" height="45"></button></td>
+
+      <td style="text-align: right; padding-right: 15px;"><button id="apple"
+          style="border-radius:10px; height: 55px; width: 158px; text-align: left; border-color: #3F6DFD;background-color:#fff;"><img
+            src="RDF_UI/RDF_MEDIA/With_AppleIMG.jpg" width="145" height="45"></button></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align:left;"><button id="linkedin"
+          style="border-radius:10px; height: 55px;width: 158px; text-align: left;border-color: #3F6DFD; background-color: #fff"><img
+            src="RDF_UI/RDF_MEDIA/With_LinkedinIMG.jpg" width="140px" height="45"></button></td>
+
+      <td style="text-align: right; padding-right: 15px;"><button id="github"
+          style="border-radius:10px; height: 55px;width: 158px; text-align: left; border-color: #3F6DFD; background-color:#fff;"><img
+            src="RDF_UI/RDF_MEDIA/With_GithubIMG.jpg" width="145" height="45"></button></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; font-size: 14px; padding: 20px;"><b>OR</b></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="font-size: 14px;padding: 14px;"><label><b>&nbsp;Email / Phone number* </b></label><br>
+        <input type="text" id="Emailph" name="Emailph" placeholder=" Enter Email / Phone no."
+          style="border-radius:10px; height: 40px;width:345px;border-color: #3F6DFD;">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="font-size: 14px; padding: 14px;"><label><b>&nbsp;Password*</b></label>
+        <input type="password" name="Password" id="password" placeholder=" Enter Password"
+          style="border-radius:10px; height: 40px; width:345px;border-color: #3F6DFD;">
+      </td>
+    </tr>
+    <tr>
+      <td id="rememberme" style="padding-bottom:20px;padding-top:0px; text-align:top;"><input type="checkbox"
+          id="rememberme-checkbox" name="rememberme" style="width:13px; height:11px;cursor: pointer;"> <label
+          for="rememberme-checkbox" style="font-size: 14px;">Remember Info</label></td>
+          
+      <td id="forgotpassword"><a id="forgot-password-link" href="#"
+          style="font-size: 14px; float: right;padding-right: 10px;padding-bottom:20px;padding-top:0px; text-align:top;cursor: pointer;">Forgot
+          Password?</a></td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center;"><button id="Login" type="button" value="Login"
+          style="width: 50%; background-color: #007bff; color: white; padding: 10px; border: none; border-radius: 25px; cursor: pointer; font-size: 14px;">Log
+          in</button></td>
+  
+      <td></td>
+    </tr>
+    <tr id="signup">
+      <td colspan="2" style="text-align: center;font-size: 16px;">First Time Here? <b id="signup-link"
+          style="color:#3F6DFD; font-size: 16px;cursor: pointer;">sign up</b></td>
+    </tr>
+  </table>
+
+  <script src="RDF_ACTION/loginAction.js"></script>
